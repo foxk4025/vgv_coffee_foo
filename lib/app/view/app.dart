@@ -1,5 +1,5 @@
-import 'package:coffee_foo/counter/counter.dart';
-import 'package:coffee_foo/l10n/l10n.dart';
+import 'package:vgv_coffee_foo/counter/counter.dart';
+import 'package:vgv_coffee_foo/l10n/l10n.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(coffee_foo LANGUAGES CXX)
+project(vgv_coffee_foo LANGUAGES CXX)
 
 set(BINARY_NAME "coffee_foo")
 

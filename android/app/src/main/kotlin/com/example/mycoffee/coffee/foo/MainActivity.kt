@@ -1,4 +1,4 @@
-package com.example.mycoffee.coffee_foo
+package com.example.mycoffee.vgv_coffee_foo
 
 import io.flutter.embedding.android.FlutterActivity
 

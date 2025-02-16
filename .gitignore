@@ -29,6 +29,7 @@ migrate_working_dir/
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
+/.dart_tool/*
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
@@ -46,6 +47,7 @@ unlinked_spec.ds
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
+**/android/.gradle/*
 **/android/captures/
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
@@ -55,6 +57,8 @@ unlinked_spec.ds
 **/android/app/profile
 **/android/app/release
 *.jks
+android/app/.cxx/
+android/.gradle/*
 
 # iOS/XCode related
 **/ios/**/*.mode1v3

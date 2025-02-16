@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/runak/development/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/runak/coffee_foo"
+export "FLUTTER_APPLICATION_PATH=/Users/runak/vgv_coffee_foo"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
